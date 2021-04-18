@@ -1,0 +1,4 @@
+1. 前台用   vue 开发
+2. 后台用 springboot+ spring + springmvc +spring jdbc +myssql
+3. 前后台的交互:  json
+         规范:  restful规范
