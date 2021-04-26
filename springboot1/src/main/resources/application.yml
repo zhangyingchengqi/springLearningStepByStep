@@ -1,0 +1,19 @@
+server:
+  port: 8081
+  session.timeout: 60000
+  servlet.contextpath: /baidu
+
+
+logging:
+  level:
+    root: error
+    com.yc: info
+    org.springframework: error
+  file:
+    path: ./logs
+    name: ycsss.log
+
+yc:
+  tname: zy
+  age: 20
+

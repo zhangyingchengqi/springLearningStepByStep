@@ -12,6 +12,11 @@
         <module>spring1_helloworld</module>
         <module>spring2_caltools</module>
         <module>spring3_myspringframework</module>
+        <module>spring4_aop</module>
+        <module>spring5_selfaop_jdkproxy</module>
+        <module>spring6_selfaop_cglibproxy</module>
+        <module>spring7_tx</module>
+        <module>springboot_bank</module>
     </modules>
 
     <properties>
@@ -46,6 +51,13 @@
             <dependency>
                 <groupId>org.springframework</groupId>
                 <artifactId>spring-test</artifactId>
+                <version>${spring.version}</version>
+                <scope>provided</scope>
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework</groupId>
+                <artifactId>spring-jdbc</artifactId>
                 <version>${spring.version}</version>
                 <scope>provided</scope>
             </dependency>

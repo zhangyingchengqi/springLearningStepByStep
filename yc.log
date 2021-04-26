@@ -1,0 +1,21 @@
+2021-04-26 19:15:31.755  INFO 1160 --- [restartedMain] com.yc.BankApplication                   : Starting BankApplication using Java 1.8.0_65 on PC-20201012VNQZ with PID 1160 (D:\IdeaProjects\testspring\springboot_bank\target\classes started by Administrator in D:\IdeaProjects\testspring)
+2021-04-26 19:15:31.766  INFO 1160 --- [restartedMain] com.yc.BankApplication                   : No active profile set, falling back to default profiles: default
+2021-04-26 19:15:35.175  INFO 1160 --- [restartedMain] com.yc.BankApplication                   : Started BankApplication in 4.129 seconds (JVM running for 5.196)
+2021-04-26 20:44:16.050  INFO 6728 --- [restartedMain] com.yc.BankApplication                   : Starting BankApplication using Java 1.8.0_65 on PC-20201012VNQZ with PID 6728 (D:\IdeaProjects\testspring\springboot_bank\target\classes started by Administrator in D:\IdeaProjects\testspring)
+2021-04-26 20:44:16.053  INFO 6728 --- [restartedMain] com.yc.BankApplication                   : No active profile set, falling back to default profiles: default
+2021-04-26 20:44:18.564  WARN 6728 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2021-04-26 20:44:18.933  WARN 6728 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 80 is already in use
+2021-04-26 20:44:18.965 ERROR 6728 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 80 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 80 or configure this application to listen on another port.
+

@@ -11,5 +11,15 @@
 
     <artifactId>spring6_selfaop_cglibproxy</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>cglib</groupId>
+            <artifactId>cglib</artifactId>
+            <version>3.3.0</version>
+        </dependency>
+
+
+    </dependencies>
+
 
 </project>

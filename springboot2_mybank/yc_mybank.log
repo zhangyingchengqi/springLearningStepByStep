@@ -1,0 +1,9 @@
+2021-04-26 20:50:53.660  INFO 7360 --- [main] com.yc.mybank.MybankApplicationTests     : Starting MybankApplicationTests using Java 1.8.0_65 on PC-20201012VNQZ with PID 7360 (started by Administrator in D:\IdeaProjects\testspring\springboot2_mybank)
+2021-04-26 20:50:53.672  INFO 7360 --- [main] com.yc.mybank.MybankApplicationTests     : No active profile set, falling back to default profiles: default
+2021-04-26 20:50:58.161  INFO 7360 --- [main] com.yc.mybank.MybankApplicationTests     : Started MybankApplicationTests in 4.925 seconds (JVM running for 6.277)
+2021-04-26 20:57:16.465  INFO 4748 --- [main] com.yc.mybank.MybankApplicationTests     : Starting MybankApplicationTests using Java 1.8.0_65 on PC-20201012VNQZ with PID 4748 (started by Administrator in D:\IdeaProjects\testspring\springboot2_mybank)
+2021-04-26 20:57:16.468  INFO 4748 --- [main] com.yc.mybank.MybankApplicationTests     : No active profile set, falling back to default profiles: default
+2021-04-26 20:57:20.816  INFO 4748 --- [main] com.yc.mybank.MybankApplicationTests     : Started MybankApplicationTests in 4.761 seconds (JVM running for 6.016)
+2021-04-26 20:58:28.536  INFO 1284 --- [main] com.yc.mybank.MybankApplicationTests     : Starting MybankApplicationTests using Java 1.8.0_65 on PC-20201012VNQZ with PID 1284 (started by Administrator in D:\IdeaProjects\testspring\springboot2_mybank)
+2021-04-26 20:58:28.540  INFO 1284 --- [main] com.yc.mybank.MybankApplicationTests     : No active profile set, falling back to default profiles: default
+2021-04-26 20:58:32.929  INFO 1284 --- [main] com.yc.mybank.MybankApplicationTests     : Started MybankApplicationTests in 4.796 seconds (JVM running for 6.058)

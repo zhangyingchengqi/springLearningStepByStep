@@ -12,8 +12,7 @@ o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applica
 2021-04-18 09:47:24.646  INFO 10660 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
 2021-04-18 09:47:24.646  INFO 10660 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
 
-
-    spring容器接口
+  spring容器接口
     ApplicationContext AnnotationConfigApplicationContext
                        WebApplicationContext     spring容器
 
@@ -29,3 +28,4 @@ o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applica
         return String.format("Hello %s!", name);
     }
    /hello?name=ycinfo  ->  映射到 @RestController  注解的控制层类中找   /hello 配置的方法
+
